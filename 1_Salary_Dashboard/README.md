@@ -4,9 +4,9 @@
 
 ## Introduction
 
-This data jobs salary dashboard was designed to help job seekers explore salary trends for their desired roles, ensuring they are fairly compensated. 
+This data jobs salary dashboard was designed to help job seekers explore salary trends for their desired roles, ensuring they are fairly compensated.
 
-The data is from Luke Barousse's Excel course, which provides a foundation for analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+The data is from Luke Barousse's Excel course, which provides a foundation for analyzing data using Excel. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).

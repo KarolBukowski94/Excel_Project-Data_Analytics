@@ -141,8 +141,8 @@ To understand the data science job market, I asked the following:
 #### 📈 PivotChart
 
 - I created a combo PivotChart to plot median salary and skill likelihood (%) from my PivotTable.
-    - 🪙 **Primary Axis:** Median Salary (as a Clustered Column)
-    - 👍 **Secondary Axis:** Skill Likelihood (as a Line with Markers)
+    - **Primary Axis:** Median Salary (as a Clustered Column)
+    - **Secondary Axis:** Skill Likelihood (as a Line with Markers)
 - To customize the chart, I added a title axis title, removed the lines (skill likelihood), and changed the markers to diamonds.
 
 ### 📊 Analysis
@@ -156,7 +156,11 @@ To understand the data science job market, I asked the following:
 
 ### 🤔So What
 
-- This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
+- This chart highlights the importance of investing time in learning high-value skills like **Python** and **SQL**, which are tied to higher-paying roles, especially for those looking to maximize their salary in the tech industry.
+- Interestingly, the data reveals that, despite **Excel** being associated with lower-paying roles, it remains one of the most sought-after skills for non-senior data analysis positions.
 
 ## Conclusion
 
+As an aspiring data analyst, I embarked on this Excel-based project to uncover valuable insights into the data science job market. Using a dataset curated by Luke from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. Using **Excel** features like Power Query, PivotTables, DAX, and charts, I identified key correlations between specific skills and higher salaries. 
+
+Furthermore, the data reveals which skills are most important for particular job titles, offering valuable insights on which skills to develop to increase the chances of securing a specific job position.

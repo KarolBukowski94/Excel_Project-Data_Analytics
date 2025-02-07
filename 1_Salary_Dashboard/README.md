@@ -1,6 +1,8 @@
-# Excel Salary Dashboard
+# Data Nerds Salary Dashboard
 
-![1_Salary_Dashboard.PNG](/Images/1_Salary_Dashboard.PNG)
+🎯 The purpose of this [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx) was to assist job seekers in exploring salary trends for their desired roles, providing them with essential information on their expected salaries.
+
+![Data Nerds Salary Dashboard](/0_Resources/Images/1_Salary_Dasboard/1_Data_Nerds_Salary_Dashboard.gif)
 
 ## Introduction
 

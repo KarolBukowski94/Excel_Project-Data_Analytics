@@ -16,16 +16,16 @@
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-![1_Salary_Dashboard_Chart1.PNG](/Images/1_Salary_Dashboard_Chart1.PNG)
+![Job Salaries Bar Chart](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/2_Job_Salaries_Bar_Chart.PNG)
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
-- 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
+- 🎨 **Design Choice:** Horizontal bar chart for visually comparing median salaries.
 - 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.PNG](/Images/1_Salary_Dashboard_Chart2.PNG)
+![Country Salary Map Chart](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/3_Country_Salary_Map_Chart.gif)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -56,11 +56,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/Images/1_Salary_Dashboard_Screenshort1.PNG)
+![Background Table Salary](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/4_Background_Table_Salary.PNG)
 
 📉 Dashboard Implementation
 
-![1_Salary_Dashboard_Job_Title.PNG](/Images/1_Salary_Dashboard_Job_Title.PNG)
+![Dashboard Implementation Salary](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/5_Dashboard_Implementation_Salary.PNG)
 
 #### ⏰ Count of Job Schedule Type
 
@@ -73,11 +73,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshort2.PNG](/Images/1_Salary_Dashboard_Screenshort2.PNG)
+![Background Table Type](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/6_Background_Table_Type.PNG)
 
 📉 Dashboard Implementation:
 
-![1_Salary_Dashboard_Type.PNG](/Images/1_Salary_Dashboard_Type.PNG)
+![Dashboard Implementation Type](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/7_Dashboard_Implementation_Type.PNG)
 
 ### ❎ Data Validation
 
@@ -88,8 +88,9 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-![1_Salary_Dashboard_Data_Validation.PNG](/Images/1_Salary_Dashboard_Data_Validation.PNG)
+![Data Validation](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/8_Data_Validation.gif)
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+This dashboard showcases salary trends across various data-related job titles, enabling users to make well-informed career decisions. By exploring the data, users can gain insights into how location and job type influence salaries.
+

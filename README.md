@@ -1,8 +1,10 @@
 # 📊 Excel Data Analytics Projects
 
-Welcome to my projects, which showcase my knowledge and skills in using Excel as a data analysis tool. Special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for creating the [Excel_Data_Analytics_Course](https://youtu.be/pCJ15nGFgVg?si=eaVSlBZP-crDsYqO), which helps aspiring data analysts build a strong foundation with this powerful tool.
+Welcome to my projects, which showcase my knowledge and skills in using Excel as a data analysis tool!
 
-The data for both projects is sourced from materials provided by the course creators. The dataset includes detailed information on job titles, salaries, locations, and essential skills, based on real-world job postings from 2023.
+Special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for creating the [Excel Data Analytics Course](https://youtu.be/pCJ15nGFgVg?si=eaVSlBZP-crDsYqO), which helps aspiring data analysts build a strong foundation with this powerful tool.
+
+The data used for both projects is sourced from materials provided by the course creators. The dataset includes detailed information on job titles, salaries, locations, and essential skills, based on real-world job postings from 2023.
 
 # Data Nerds Salary Dashboard
 

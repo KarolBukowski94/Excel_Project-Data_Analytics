@@ -8,7 +8,7 @@ The [data](/0_Resources/data_jobs_salary_all.xlsx) used for both projects is sou
 
 # Data Nerds Salary Dashboard
 
-🎯 The purpose of this [Data Nerds Salary Dashboard](/1_Salary_Dashboard) was to assist job seekers in exploring salary trends for their desired roles, providing them with essential information on the salaries they can expect.
+🎯 The purpose of this [Data Nerds Salary Dashboard](/1_Salary_Dashboard) was to assist job seekers in exploring salary trends for their desired roles, providing them with essential information on their expected salaries.
 
 ![Data Nerds Salary Dashboard](/0_Resources/Images/1_Salary_Dasboard/1_Data_Nerds_Salary_Dashboard.gif)
 

@@ -2,13 +2,15 @@
 
 Welcome to my projects, which showcase my knowledge and skills in using **Excel** as a data analysis tool!
 
-Special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for creating the [Excel Data Analytics Course](https://youtu.be/pCJ15nGFgVg?si=eaVSlBZP-crDsYqO), which helps aspiring data analysts build a strong foundation with this powerful tool.
+Special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for creating the [Excel Data Analytics Course](https://youtu.be/pCJ15nGFgVg?si=eaVSlBZP-crDsYqO), which helps aspiring data analysts build a strong foundation with this versatile tool.
 
-The [data](/0_Resources/data_jobs_salary_all.xlsx) used for both projects is sourced from materials provided by the course creators. The dataset includes detailed information on job titles, salaries, locations, and essential skills, based on real-world job postings from 2023.
+The [data](/0_Resources/data_jobs_salary_all.xlsx) used for both projects is sourced from materials provided by the course creators. The dataset includes detailed information on job titles, salaries, locations, and essential skills, based on real-world job postings from 2023. 
+
+These projects are excellent examples of how **Excel** can be used to interpret and visualize complex data effectively 💪
 
 # Data Nerds Salary Dashboard
 
-🎯 The purpose of this [Data Nerds Salary Dashboard](/1_Data_Nerds_Salary_Dashboard) was to assist job seekers in exploring salary trends for their desired roles, providing them with essential information on their expected salaries.
+🎯 The [Data Nerds Salary Dashboard](/1_Data_Nerds_Salary_Dashboard) helps job seekers explore salary trends across various data-related job titles, providing essential insights into expected salaries for their desired roles. The tool highlights salary differences based on position, country, and job schedule type, enabling users to make well-informed career decisions.
 
 ![Data Nerds Salary Dashboard](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/1_Data_Nerds_Salary_Dashboard.gif)
 

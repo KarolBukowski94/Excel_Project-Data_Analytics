@@ -1,6 +1,6 @@
 # Data Nerds Salary Dashboard
 
-🎯 The purpose of this [Data Nerds Salary Dashboard](1_Data_Nerds_Salary_Dashboard.xlsx) was to assist job seekers in exploring salary trends for their desired roles, providing them with essential information on their expected salaries.
+🎯 The [dashboard](1_Data_Nerds_Salary_Dashboard.xlsx) helps job seekers explore salary trends across various data-related job titles, providing essential insights into expected salaries for their desired roles. The tool highlights salary differences based on position, country, and job schedule type, enabling users to make well-informed career decisions.
 
 ![Data Nerds Salary Dashboard](/0_Resources/Images/1_Data_Nerds_Salary_Dashboard/1_Data_Nerds_Salary_Dashboard.gif)
 
@@ -92,5 +92,4 @@ IF(
 
 ## Conclusion
 
-This dashboard showcases salary trends across various data-related job titles, enabling users to make well-informed career decisions. By exploring the data, users can gain insights into how location and job type influence salaries.
-
+This interactive tool provides insights into how job title, location, and job type influence final salary, helping users make informed career decisions. The dashboard supports job seekers in negotiating fair compensation and is a valuable resource for professionals transitioning into higher-paying roles in the data science industry.
